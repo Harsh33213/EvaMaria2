@@ -105,3 +105,18 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
+    REQUEST_TXT="""🌟 REQUEST YOUR MOVIE🌟
+
+-MOVIE OR SERIES NAME (with Season Number)
+
+-RELEASE DATE / YEAR
+
+-LANGUAGE
+
+-RESOLUTION / SIZE REQD. (Eg. 480p, 720p, 1080p or more / 400MB, 700MB, 1GB, upto 3.95GB)
+
+💕DO NOT DM/PM/INBOX THE ADMINS!
+
+ONLY TAG THEM IF YOU NEED ANY HELP IN THE GROUP!!
+
+DO NOT TAG MULTIPLE ADMINS💕"""
